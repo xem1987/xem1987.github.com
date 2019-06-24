@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.sxem.com/"/>
-  <updated>2019-06-24T04:45:20.919Z</updated>
+  <updated>2019-06-24T10:06:25.293Z</updated>
   <id>https://blog.sxem.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://blog.sxem.com/2019/06/15/Beginning/"/>
     <id>https://blog.sxem.com/2019/06/15/Beginning/</id>
     <published>2019-06-15T14:57:02.000Z</published>
-    <updated>2019-06-24T04:45:20.919Z</updated>
+    <updated>2019-06-24T10:06:25.293Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="博客开张了-！"><a href="#博客开张了-！" class="headerlink" title="博客开张了~！"></a>博客开张了~！</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="博客开张了-！"><a href="#博客开张了-！" class="headerlink" title="博客开张了~！"></a>博客开张了~！</h1><h1 id="博客技术栈"><a href="#博客技术栈" class="headerlink" title="博客技术栈"></a>博客技术栈</h1><ol><li>hexo 博客静态文件生成，发布框架</li><li>GitHub Pages 博客服务</li><li>Gitlab 博客源码存储</li><li>Jenkins 博客生成，发布</li></ol><p>以上是博客使用技术栈，之后有空会逐个介绍，敬请期待~！</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;博客开张了-！&quot;&gt;&lt;a href=&quot;#博客开张了-！&quot; class=&quot;headerlink&quot; title=&quot;博客开张了~！&quot;&gt;&lt;/a&gt;博客开张了~！&lt;/h1&gt;
+        &lt;h1 id=&quot;博客开张了-！&quot;&gt;&lt;a href=&quot;#博客开张了-！&quot; class=&quot;headerlink&quot; title=&quot;博客开张了~！&quot;&gt;&lt;/a&gt;博客开张了~！&lt;/h1&gt;&lt;h1 id=&quot;博客技术栈&quot;&gt;&lt;a href=&quot;#博客技术栈&quot; class=&quot;headerlink&quot; ti
       
     
     </summary>
